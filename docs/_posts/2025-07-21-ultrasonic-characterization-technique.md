@@ -1,24 +1,24 @@
 ---
 layout: post
-title:  Probing the Nano-electrocatalyst using Multimodal Operando Techniques 
-permalink: /posts/2025-02-18-multimodal-operando-technique-electrocatalyst/
+title:  Cost-efficient non-destructive characterization technique for the battery system
+permalink: /posts/2025-07-21-ultrasonic-characterization-technique/
 ---
 
 <html>
   <body>
-    <h1>Probing the Nano-electrocatalyst using Multimodal Operando Techniques</h1>
+    <h1>Cost-efficient non-destructive characterization technique for the battery system</h1>
     <br><br>
-    <b>Title</b>: Revealing catalyst restructuring and composition during nitrate electroreduction through correlated operando microscopy and spectroscopy
+    <b>Title</b>: Design of a low-cost ultrasonic testing instrument for battery metrology
     <br>
-    <b>Authors</b>: Yoon, et al.,
+    <b>Authors</b>: Amsterdam, et al.,
     <br>
-    <b>Journal</b>: Nature Materials <a href="https://www.nature.com/articles/s41563-024-02084-8">Link</a>
+    <b>Journal</b>: Electrochimica Acta <a href="https://www.sciencedirect.com/science/article/pii/S0013468625003755">Link</a>
     <br><br>
-    Direct visualization of dynamic electrochemical processes inside a transmission electron microscope (TEM) is crucial for understanding nanoscale energy systems. This approach becomes even more powerful when complemented by well-established spectroscopic techniques. Electrochemical liquid cell transmission electron microscopy (EC-TEM) has proven to be a valuable tool for observing the electrically driven shape evolution of nanostructures in liquid. However, its limited spectroscopic capability—due to the thickness of the chip window and liquid—has restricted its widespread adoption in the research community.
+    Non-destructive characterization has become crucial for understanding the operation and extracting key performance metrics of commercial batteries. In this paper, the authors introduce the application of scanning acoustic microscopy using ultrasound for battery systems, which can offer high-end performance at minimal cost. The paper provides an overview of various geometries used in ultrasonic techniques depending on the mode of operation (i.e., transmission, pulse-echo, and pitch-catch), as well as the basic principles and mathematical equations used to derive physical properties from parameters extracted through ultrasound measurements, such as time of flight and amplitude.
     <br><br>
-    In this study, the authors developed a method to comprehensively track the evolution of Cu₂O nanocubes during nitrate reduction, a key electrocatalytic reaction. By integrating EC-TEM with transmission X-ray microscopy (TXM), they successfully achieved both imaging and spectroscopic analysis without compromising the reaction environment. This was possible because X-rays experience less attenuation from the electrolyte and window membranes than electrons, better in preserving data quality.
+    Additionally, it offers insights into the hardware and software involved in ultrasound measurements, with specific information on different components and outlines potential caveats along with preventative guidelines for proper equipment operation. To demonstrate feasibility, the authors perform scanning acoustic microscopy on an assembled pouch cell with known electrode and electrolyte compositions to assess wettability and compatibility of the electrolyte with the electrodes.
     <br><br>
-    To validate their findings, the authors further employed operando hard X-ray absorption spectroscopy (XAS), which provided bulk-level oxidation state analysis of nanoparticles extracted at the same potential in an electrolyte of identical composition to that used in TEM/TXM. Their results demonstrated how the evolution of Cu₂O nanocubes depends on nitrate reduction conditions, such as applied potential and chemical atmosphere. Additionally, they revealed that chemical heterogeneities arising from phase formation at different reductive potentials significantly impact ammonia selectivity, likely through electrocatalytic conversion reaction activation.
+    As the technique is still in its early stages, standardization of the experimental setup and refinement of analysis protocols are to be followed. Furthermore, the spatial resolution—currently on the order of ~100 µm—must be improved to enable more reliable routine measurements, especially considering the typical thickness of cathodes and anodes in commercial cells, to compete effectively with X-ray computed tomography which is a well-established method in the battery industry.
     <br><br>
   </body>
 </html>
