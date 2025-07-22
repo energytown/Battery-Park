@@ -18,7 +18,7 @@ permalink: /posts/2025-07-21-ultrasonic-characterization-technique/
     <br><br>
     Additionally, it offers insights into the hardware and software involved in ultrasound measurements, with specific information on different components and outlines potential caveats along with preventative guidelines for proper equipment operation. To demonstrate feasibility, the authors perform scanning acoustic microscopy on an assembled pouch cell with known electrode and electrolyte compositions to assess wettability and compatibility of the electrolyte with the electrodes.
     <br><br>
-    As the technique is still in its early stage, standardization of the experimental setup and refinement of analysis protocols are likely to be followed. Furthermore, the spatial resolution—currently on the order of ~100 µm—needs to be improved to enable more reliable routine measurements, especially considering the typical dimension of cathodes and anodes in commercial cells, to compete effectively with X-ray computed tomography which is a well-established method in the battery industry.
+    As the technique is still in its early stage, standardization of the experimental setup and refinement of analysis protocols are likely to be followed. Furthermore, the spatial resolution—currently on the order of ~100 µm—may need to be improved to enable more reliable routine measurements, especially considering the typical dimension of cathodes and anodes in commercial cells, to compete effectively with X-ray computed tomography which is a well-established method in the battery industry.
     <br><br>
   </body>
 </html>
