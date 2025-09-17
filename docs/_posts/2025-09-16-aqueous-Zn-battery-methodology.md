@@ -8,7 +8,7 @@ permalink: /posts/2025-09-16-aqueous-Zn-battery-methodology/
   <body>
     <h1>Methodology for Quantifying Synchronous Kinetics in Aqueous Batteries</h1>
     <br><br>
-    <b>Title</b>:Beyond the Artifact: In Situ Quantification of True HER Kinetics During Zn Electrodeposition in Aqueous Zinc Metal Batteries
+    <b>Title</b>: Beyond the Artifact: In Situ Quantification of True HER Kinetics During Zn Electrodeposition in Aqueous Zinc Metal Batteries
     <br>
     <b>Authors</b>: Rana, et al.,
     <br>
