@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Operando Investigation of Lead-Acid Batteries
-permalink: /posts/2025-08-24-operando-lead-acid/
+title:  Methodology for Quantifying Synchronous Kinetics in Aqueous Batteries
+permalink: /posts/2025-09-16-aqueous-Zn-battery-methodology/
 ---
 
 <html>
