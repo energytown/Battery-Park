@@ -6,19 +6,19 @@ permalink: /posts/2025-09-16-aqueous-Zn-battery-methodology/
 
 <html>
   <body>
-    <h1>Operando Investigation of Lead-Acid Batteries</h1>
+    <h1>Methodology for Quantifying Synchronous Kinetics in Aqueous Batteries</h1>
     <br><br>
-    <b>Title</b>: Operando observation of internal structural changes of a lead-acid cell by synchrotron X-ray micro computed tomography
+    <b>Title</b>:Beyond the Artifact: In Situ Quantification of True HER Kinetics During Zn Electrodeposition in Aqueous Zinc Metal Batteries
     <br>
-    <b>Authors</b>: Kim, et al.,
+    <b>Authors</b>: Rana, et al.,
     <br>
-    <b>Journal</b>: Journal of Power Sources <a href="https://doi.org/10.1016/j.jpowsour.2025.238023">Link</a>
+    <b>Journal</b>: Advanced Energy Materials <a href="https://doi.org/10.1002/aenm.202503155">Link</a>
     <br><br>
-    Lead-acid batteries remain an attractive option for rechargeable cell technology due to their low cost and good durability, despite having a lower energy density compared to Li-ion batteries. In this study, the authors successfully demonstrated the chemo-mechanical behavior of a lead-acid cell during formation and cycling using operando characterization. They employed X-ray microtomography and energy-dispersive diffraction with a custom-designed cell that mimics real testing conditions.
+    Interpretation of reaction mechanisms in aqueous batteries can be complex and challenging due to parasitic reactions and accompanying pH changes. Similarly, aqueous Zn batteries suffer from the hydrogen evolution reaction (HER), which occurs alongside zinc electrodeposition. However, its kinetics have remained elusive because of the lack of techniques capable of providing a comprehensive picture of the reaction process.
     <br><br>
-    X-ray microtomography, with a voxel resolution of less than 1 μm³, enabled visualization of structural changes within the cylindrical electrode containing a Pb wire. Crystallographic changes associated with phase transitions were captured using energy-dispersive diffraction during 180° tomography acquisition. The diffraction results during formation aligned with the widely accepted mechanism: PbO first converts to PbSO₄, then to PbO₂ in the positive electrode, while PbO is reduced to Pb in the negative electrode. A decrease in normalized peak areas indicates low utilization of the cell during cycling. Tomography revealed that void formation and growth caused by paste pulverization during formation led to surface changes relative to the internal volume of the positive electrode. In the negative electrode was observed void formation distinctively different from and a volume decrease as opposed to that of the positive electrode, reflecting the phase change and possibly highlighting the role of generated gas species. Further, a corrosion behavior around the Pb wire was different between the two electrodes.
+    In this paper, the authors developed a method that integrates electrochemical mass spectrometry (EC-MS) with electrochemical measurements, enabling them to decouple HER from Zn electrodeposition and to quantify its kinetics through in operando monitoring of H₂ gas evolution during zinc electrodeposition. The authors first demonstrated the conventional method for quantifying HER kinetics—that is, replacing Zn salt with an inert salt and adjusting the pH to match that of the Zn salt solution. The exchange current obtained for HER was found to be comparable to that of Zn plating, implying that a significant fraction of the charge is consumed by HER and thus making the method questionable, since only a tiny fraction of the applied charge in the overall reaction is supposedly involved in HER. Indeed, the EC-MS experiment reveals only <1% of the total charge utilized for HER against Zn deposition. Linear sweep voltammogram performed on an EC-MS setup yielded the data for Tafel analysis to extract exchange currents for Zn electrodeposition and HER, which are different by many orders of magnitude from one another, agreeing conceptually with chemistry of interplay between Zn ions and solvation water.
     <br><br>
-    The work provides real-time insights into the structural evolution of the lead acid battery electrodes during the early operation, with sufficient detail to capture the intricate process of phase transformation and gas generation. However, the analysis in the paper focuses mainly on the formation stage rather than the actual cycling of the cell - not elucidating the structural origin of the continuously reducing capacity utilization. Nevertheless, the combined use of X-ray microtomography and energy-dispersive diffraction represents a powerful approach for non-destructive analysis of commercial cells.
+    The authors further demonstrated the capability of their experimental methodology by confirming previous reports on the importance of the current collector and electrolyte additives in suppressing HER activity, thereby achieving high electrochemical performance in aqueous Zn batteries. The ability to simultaneously detect multiple chemical processes can be critical for bridging the gap among different studies with conflicting results and, ultimately, for advancing the knowledge needed to develop electrochemically stable aqueous batteries.
     <br><br>
   </body>
 </html>
