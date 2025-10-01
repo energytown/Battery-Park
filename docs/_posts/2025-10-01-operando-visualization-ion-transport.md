@@ -1,24 +1,24 @@
 ---
 layout: post
-title:  Methodology for Quantifying Synchronous Kinetics in Aqueous Batteries
-permalink: /posts/2025-09-16-aqueous-Zn-battery-methodology/
+title:  Operando Method for Visualizing Ion Transport in High Mass loading Cathodes
+permalink: /posts/2025-10-01-operando-visualization-ion-transport/
 ---
 
 <html>
   <body>
-    <h1>Methodology for Quantifying Synchronous Kinetics in Aqueous Batteries</h1>
+    <h1>Operando method for visualizing ion transport in high mass-loading cathodes</h1>
     <br><br>
-    <b>Title</b>: Beyond the Artifact: In Situ Quantification of True HER Kinetics During Zn Electrodeposition in Aqueous Zinc Metal Batteries
+    <b>Title</b>: Operando neutron imaging-guided gradient design of Li-ion solid conductor for high-mass-loading cathodes
     <br>
-    <b>Authors</b>: Rana, et al.,
+    <b>Authors</b>: Ji, et al.,
     <br>
-    <b>Journal</b>: Advanced Energy Materials <a href="https://doi.org/10.1002/aenm.202503155">Link</a>
+    <b>Journal</b>: Nature Communications <a href="https://doi.org/10.1038/s41467-025-62518-y">Link</a>
     <br><br>
-    Interpretation of reaction mechanisms in aqueous batteries can be complex and challenging due to parasitic reactions and accompanying pH changes. Similarly, aqueous Zn batteries suffer from the hydrogen evolution reaction (HER), which occurs alongside zinc electrodeposition. However, its kinetics have remained elusive because of the lack of techniques capable of providing a comprehensive picture of the reaction process.
+    Li-ion transport in all-solid-state batteries (ASSBs) can become sluggish at high current densities in thick cathodes with high active mass loading, due to increased tortuosity and long diffusion paths, despite its critical role in achieving high energy density. To identify the limiting factor in transport, a technique capable of tracking Li transport in real time within the cell is therefore essential. 
     <br><br>
-    In this paper, the authors developed a method that integrates electrochemical mass spectrometry (EC-MS) with electrochemical measurements, enabling them to decouple HER from Zn electrodeposition and to quantify its kinetics through in operando monitoring of H₂ gas evolution during zinc electrodeposition. The authors first demonstrated the conventional method for quantifying HER kinetics—that is, replacing Zn salt with an inert salt and adjusting the pH to match that of the Zn salt solution. The exchange current obtained for HER was found to be comparable to that of Zn plating, implying that a significant fraction of the charge is consumed by HER and thus making the method questionable, since only a tiny fraction of the applied charge in the overall reaction is supposedly involved in HER. Indeed, the EC-MS experiment reveals only <1% of the total charge utilized for HER against Zn deposition. Linear sweep voltammogram performed on an EC-MS setup yielded the data for Tafel analysis to extract exchange currents for Zn electrodeposition and HER, which are different by many orders of magnitude from one another, agreeing conceptually with chemistry of interplay between Zn ions and solvation water.
+    In this paper, the authors employed operando neutron imaging, which enables Li detection in both ionic and metallic states through neutron transmission, to monitor ionic transport within a cell composed of an In–⁶Li anode, solid electrolyte, and cathode. This approach allowed them to identify the kinetic limitations of charge and discharge processes. They observed a clear mismatch between Li flux and solid electrolyte distribution in a thick composite cathode, which undermines electrochemical performance. During charging, self-diffusion of ⁶Li occurs from the anode into the electrolyte, while the cathode is non-uniformly depleted of Li. Upon discharging, ⁶Li diffuses from the anode through the solid electrolyte into the cathode, reflecting the extent of Li⁺ diffusion. The non-uniform delithiation of the thick cathode during charging was attributed to reaction kinetics and strongly influenced by the relative distribution of active material, conductive additive, and solid electrolyte, as confirmed by C-rate–dependent dQ/dV analysis of cells with different active mass loadings. To address this issue, the authors proposed a three-layer cathode design with a gradient in active material loading relative to solid electrolyte content. This architecture demonstrated improved electrochemical performance with a substantial increase in specific capacity at high C-rates.
     <br><br>
-    The authors further demonstrated the capability of their experimental methodology by confirming previous reports on the importance of the current collector and electrolyte additives in suppressing HER activity, thereby achieving high electrochemical performance in aqueous Zn batteries. The ability to simultaneously detect multiple chemical processes can be critical for bridging the gap among different studies with conflicting results and, ultimately, for advancing the knowledge needed to develop electrochemically stable aqueous batteries.
+    Although neutron imaging has previously been applied in battery studies, this work provided a direct visual demonstration of the critical role of ion-transport kinetics in ASSBs. Quantitative analysis of the extent of Li-ion migration within the cathode and its correlation with solid electrolyte distribution would have offered deeper insights into the kinetics. In addition, operando neutron imaging of the three-layer cathode during cycling was not presented, despite the inclusion of comparative electrochemical performance data, leaving an opportunity for further confirmation of the conclusions by the authors.
     <br><br>
   </body>
 </html>
