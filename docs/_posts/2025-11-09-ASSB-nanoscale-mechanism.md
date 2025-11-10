@@ -1,24 +1,26 @@
 ---
 layout: post
-title:  Operando Method for Visualizing Ion Transport in High Mass loading Cathodes
-permalink: /posts/2025-10-01-operando-visualization-ion-transport/
+title:  Identifying Mechanisms of All-solid-state Batteries at Nanoscale 
+permalink: /posts/2025-11-09-ASSB-nanoscale-mechanism/
 ---
 
 <html>
   <body>
-    <h1>Operando method for visualizing ion transport in high mass-loading cathodes</h1>
+    <h1>Identifying Mechanisms of All-solid-state Batteries at Nanoscale </h1>
     <br><br>
-    <b>Title</b>: Operando neutron imaging-guided gradient design of Li-ion solid conductor for high-mass-loading cathodes
+    <b>Title</b>: Revealing interfacial failure mechanism of silicon based all solid state batteries via cryogenic electron microscopy
     <br>
-    <b>Authors</b>: Ji, et al.,
+    <b>Authors</b>: Yao, et al.,
     <br>
-    <b>Journal</b>: Nature Communications <a href="https://doi.org/10.1038/s41467-025-62518-y">Link</a>
+    <b>Journal</b>: Nature Communications <a href="https://doi.org/10.1038/s41467-025-64697-0">Link</a>
     <br><br>
-    Li-ion transport in all-solid-state batteries (ASSBs) can become sluggish at high current densities in thick cathodes with high active mass loading, due to increased tortuosity and long diffusion paths, despite its critical role in achieving high energy density. To identify the limiting factor in transport, a technique capable of tracking Li transport in real time within the cell is therefore essential. 
+    All-solid-state batteries (ASSBs) have attracted tremendous attention from both academia and industry as next-generation energy storage systems that can surpass conventional lithium-ion technology in terms of safety and cycling stability. With this growing interest, the reaction mechanisms within ASSBs have come under intense investigation, particularly focusing on the interfacial dynamics between the electrode and the solid electrolyte. Because these reactions can occur on the nanometer scale, employing a high-resolution imaging technique such as transmission electron microscopy (TEM) is essential for elucidating the structural behavior of ASSBs during operation.
     <br><br>
-    In this paper, the authors employed operando neutron imaging, which enables Li detection in both ionic and metallic states through neutron transmission, to monitor ionic transport within a cell composed of an In–⁶Li anode, solid electrolyte, and cathode. This approach allowed them to identify the kinetic limitations of charge and discharge processes. They observed a clear mismatch between Li flux and solid electrolyte distribution in a thick composite cathode, which undermines electrochemical performance. During charging, self-diffusion of ⁶Li occurs from the anode into the electrolyte, while the cathode is non-uniformly depleted of Li. Upon discharging, ⁶Li diffuses from the anode through the solid electrolyte into the cathode, reflecting the extent of Li⁺ diffusion. The non-uniform delithiation of the thick cathode during charging was attributed to reaction kinetics and strongly influenced by the relative distribution of active material, conductive additive, and solid electrolyte, as confirmed by C-rate–dependent dQ/dV analysis of cells with different active mass loadings. To address this issue, the authors proposed a three-layer cathode design with a gradient in active material loading relative to solid electrolyte content. This architecture demonstrated improved electrochemical performance with a substantial increase in specific capacity at high C-rates.
+    However, TEM characterization of ASSBs can be challenging since solid electrolytes—especially sulfide-based ones—are highly sensitive to electron beam irradiation. In this study, the authors performed low-dose cryogenic TEM imaging and spectroscopy on ASSBs composed of a silicon anode and sulfide electrolytes to investigate their failure mechanisms. Through a comparative analysis of cells using two different electrolytes, Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> (LGPS) and Li<sub>10</sub>Si<sub>0.3</sub>PS<sub>6.7</sub>Cl<sub>1.8</sub> (LSPSC), the authors found that the capacity decay is not primarily caused by interfacial impedance but by continuous interfacial reactions that consume active lithium from the positive electrode.
     <br><br>
-    Although neutron imaging has previously been applied in battery studies, this work provided a direct visual demonstration of the critical role of ion-transport kinetics in ASSBs. Quantitative analysis of the extent of Li-ion migration within the cathode and its correlation with solid electrolyte distribution would have offered deeper insights into the kinetics. In addition, operando neutron imaging of the three-layer cathode during cycling was not presented, despite the inclusion of comparative electrochemical performance data, leaving an opportunity for further confirmation of the conclusions by the authors.
+    They observed that the Si–LSPSC interphase layer formed during cycling is thin and primarily composed of Li₂S nanocrystals, which impede electron transport and suppress further reactions between lithium and LSPSC. In contrast, the Si–LGPS interphase is irregular and thick (approximately 10 µm), containing Li₂S as well as Li–Ge alloy and Li₃P nanocrystals that are electronically conductive, thereby promoting ongoing reactions during cycling. The interfacial layer is also filled with cracks and LGPS debris, though these features do not necessarily contribute to cell impedance, as indicated by in situ impedance measurements showing minimal change after 200 cycles.hors.
+    <br><br>
+    Preparation and imaging of ASSB specimens require exceptional care, as they are highly sensitive to air exposure and susceptible to damage from both ion and electron beams during focused ion beam (FIB) lift-out and microscopy. Despite these challenges, the authors successfully employed cryogenic FIB and low-dose electron microscopy to provide microscopic insights into sulfide-based ASSBs. The depth of this work could be further enhanced by including analyses of the interphase structure at different cycling stages to capture the evolution of reaction dynamics.
     <br><br>
   </body>
 </html>
