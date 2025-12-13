@@ -1,26 +1,24 @@
 ---
 layout: post
-title:  Identifying Mechanisms of All-solid-state Batteries at Nanoscale 
-permalink: /posts/2025-11-09-ASSB-nanoscale-mechanism/
+title:  NMR Spectroscopy for Probing Electrolyte Chemistry in Batteries
+permalink: /posts/2025-12-13-NMR-probing-electrolyte/
 ---
 
 <html>
   <body>
-    <h1>Identifying Mechanisms of All-solid-state Batteries at Nanoscale </h1>
+    <h1>NMR for Probing Electrolyte Chemistry in Batteries </h1>
     <br><br>
-    <b>Title</b>: Revealing interfacial failure mechanism of silicon based all solid state batteries via cryogenic electron microscopy
+    <b>Title</b>: Liquid-State NMR Spectroscopy for battery Electrolyte Design
     <br>
-    <b>Authors</b>: Yao, et al.,
+    <b>Authors</b>: Shi, et al.,
     <br>
-    <b>Journal</b>: Nature Communications <a href="https://doi.org/10.1038/s41467-025-64697-0">Link</a>
+    <b>Journal</b>: ACS Energy Letters <a href="https://doi.org/10.1021/acsenergylett.5c02192">Link</a>
     <br><br>
-    All-solid-state batteries (ASSBs) have attracted tremendous attention from both academia and industry as next-generation energy storage systems that can surpass conventional lithium-ion technology in terms of safety and cycling stability. With this growing interest, the reaction mechanisms within ASSBs have come under intense investigation, particularly focusing on the interfacial dynamics between the electrode and the solid electrolyte. Because these reactions can occur on the nanometer scale, employing a high-resolution imaging technique such as transmission electron microscopy (TEM) is essential for elucidating the structural behavior of ASSBs during operation.
+    Liquid-state nuclear magnetic resonance (ls-NMR) is a technique well suited for mechanistic studies of electrolytes, in which ion transport and interfacial reactions with electrodes are of paramount importance to battery performance. This technique enables the elucidation of electrolyte structures and dynamics at the molecular level by correlating spectral data with electrolyte chemistry.
     <br><br>
-    However, TEM characterization of ASSBs can be challenging since solid electrolytes—especially sulfide-based ones—are highly sensitive to electron beam irradiation. In this study, the authors performed low-dose cryogenic TEM imaging and spectroscopy on ASSBs composed of a silicon anode and sulfide electrolytes to investigate their failure mechanisms. Through a comparative analysis of cells using two different electrolytes, Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> (LGPS) and Li<sub>10</sub>Si<sub>0.3</sub>PS<sub>6.7</sub>Cl<sub>1.8</sub> (LSPSC), the authors found that the capacity decay is not primarily caused by interfacial impedance but by continuous interfacial reactions that consume active lithium from the positive electrode.
+    In this perspective, the authors provide a general overview of ls-NMR, ranging from basic principles to advanced methodologies and spectral interpretation for the exploration of electrolyte chemistry. Different NMR techniques offer complementary perspectives on electrolyte structure, depending on the specific spectroscopic approach employed. Conventional one-dimensional spectroscopy helps visualize ion–solvent coordination chemistry and provides insights into electrolyte stability through quantitative monitoring of changes in electrolyte components during cell cycling, as well as through analysis of reaction mechanisms, including parasitic reactions that affect interfacial stability between the electrolyte and electrodes. The authors also introduce more advanced methods that enable more accurate determination of solvation structures, individual interactions, and semi-quantitative diffusion kinetics of solvated species in electrolytes.
     <br><br>
-    They observed that the Si–LSPSC interphase layer formed during cycling is thin and primarily composed of Li<sub>2</sub>S nanocrystals, which impede electron transport and suppress further reactions between lithium and LSPSC. In contrast, the Si–LGPS interphase is irregular and thick (approximately 10 µm), containing Li<sub>2</sub>S as well as Li–Ge alloy and Li<sub>3</sub>P nanocrystals that are electronically conductive, thereby promoting ongoing reactions during cycling. The interfacial layer is also filled with cracks and LGPS debris, though these features do not necessarily contribute to cell impedance, as indicated by in situ impedance measurements showing minimal change after 200 cycles.
-    <br><br>
-    Preparation and imaging of ASSB specimens require exceptional care, as they are highly sensitive to air exposure and susceptible to damage from both ion and electron beams during focused ion beam (FIB) lift-out and microscopy. Despite these challenges, the authors successfully employed cryogenic FIB and low-dose electron microscopy to provide microscopic insights into sulfide-based ASSBs. The depth of this work could be further enhanced by including analyses of the interphase structure at different cycling stages to capture the evolution of reaction dynamics.
+    Aligned with the future directions discussed later in the paper, despite its promise, ls-NMR remains largely a supplementary tool that must be used in conjunction with other major characterization techniques due to several limitations, including relatively low resolution. While technical developments aimed at improving measurement accuracy are ongoing, cross-verification with other techniques remains necessary, particularly for systems with highly complex chemistry and reaction mechanisms. Operando NMR measurements during cell cycling, another future direction highlighted by the authors, may introduce additional technical challenges beyond existing limitations and therefore require careful experimental design.
     <br><br>
   </body>
 </html>
