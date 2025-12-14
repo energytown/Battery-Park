@@ -12,7 +12,7 @@ permalink: /posts/2025-11-09-ASSB-nanoscale-mechanism/
     <br>
     <b>Authors</b>: Yao, et al.,
     <br>
-    <b>Journal</b>: Nature Communications <a href="https://doi.org/10.1038/s41467-025-64697-0">Article Link</a>
+    <b>Journal</b>: Nature Communications <a href="https://doi.org/10.1038/s41467-025-64697-0">Link</a>
     <br><br>
     All-solid-state batteries (ASSBs) have attracted tremendous attention from both academia and industry as next-generation energy storage systems that can surpass conventional lithium-ion technology in terms of safety and cycling stability. With this growing interest, the reaction mechanisms within ASSBs have come under intense investigation, particularly focusing on the interfacial dynamics between the electrode and the solid electrolyte. Because these reactions can occur on the nanometer scale, employing a high-resolution imaging technique such as transmission electron microscopy (TEM) is essential for elucidating the structural behavior of ASSBs during operation.
     <br><br>
