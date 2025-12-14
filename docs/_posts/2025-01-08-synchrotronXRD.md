@@ -12,7 +12,7 @@ permalink: /posts/2025-01-08-synchrotronXRD/
     <br>
     <b>Authors</b>: Bond et al.,
     <br>
-    <b>Journal</b>: Journal of The Electrochemical Society <a href="https://iopscience.iop.org/article/10.1149/1945-7111/ad88a8">Link</a>
+    <b>Journal</b>: Journal of The Electrochemical Society <a href="https://iopscience.iop.org/article/10.1149/1945-7111/ad88a8">Article Link</a>
     <br><br>
     Synchrotron X-ray diffraction (XRD) has become a widely adopted structural characterization technique in the battery research community. However, studies utilizing this technique are often conducted in overly simplified settings with model cells (e.g., single-layer cells subjected to hundreds of cycles), raising questions about the applicability of their conclusions to commercial battery cells.
     <br><br>
