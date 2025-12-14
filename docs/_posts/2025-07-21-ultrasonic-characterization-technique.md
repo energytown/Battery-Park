@@ -12,7 +12,7 @@ permalink: /posts/2025-07-21-ultrasonic-characterization-technique/
     <br>
     <b>Authors</b>: Amsterdam, et al.,
     <br>
-    <b>Journal</b>: Electrochimica Acta <a href="https://www.sciencedirect.com/science/article/pii/S0013468625003755">Article Link</a>
+    <b>Journal</b>: Electrochimica Acta <a href="https://www.sciencedirect.com/science/article/pii/S0013468625003755">Link</a>
     <br><br>
     Non-destructive characterization has become crucial for understanding the operation and extracting key performance metrics of commercial batteries. In this paper, the authors introduce the application of scanning acoustic microscopy using ultrasound for battery systems, which can offer high-end performance at minimal cost. The paper provides an overview of various geometries used in ultrasonic techniques depending on the mode of operation (i.e., transmission, pulse-echo, and pitch-catch), as well as the basic principles and mathematical equations used to derive physical properties from parameters extracted through ultrasound measurements, such as time of flight and amplitude.
     <br><br>
