@@ -12,7 +12,7 @@ permalink: /posts/2025-02-18-multimodal-operando-technique-electrocatalyst/
     <br>
     <b>Authors</b>: Yoon, et al.,
     <br>
-    <b>Journal</b>: Nature Materials <a href="https://www.nature.com/articles/s41563-024-02084-8">Article Link</a>
+    <b>Journal</b>: Nature Materials <a href="https://www.nature.com/articles/s41563-024-02084-8">Link</a>
     <br><br>
     Direct visualization of dynamic electrochemical processes inside a transmission electron microscope (TEM) is crucial for understanding nanoscale energy systems. This approach becomes even more powerful when complemented by well-established spectroscopic techniques. Electrochemical liquid cell transmission electron microscopy (EC-TEM) has proven to be a valuable tool for observing the electrically driven shape evolution of nanostructures in liquid. However, its limited spectroscopic capability—due to the thickness of the chip window and liquid—has restricted its widespread adoption in the research community.
     <br><br>
