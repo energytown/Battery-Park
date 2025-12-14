@@ -12,7 +12,7 @@ permalink: /posts/2025-10-01-operando-visualization-ion-transport/
     <br>
     <b>Authors</b>: Ji, et al.,
     <br>
-    <b>Journal</b>: Nature Communications <a href="https://doi.org/10.1038/s41467-025-62518-y">Article Link</a>
+    <b>Journal</b>: Nature Communications <a href="https://doi.org/10.1038/s41467-025-62518-y">Link</a>
     <br><br>
     Li-ion transport in all-solid-state batteries (ASSBs) can become sluggish at high current densities in thick cathodes with high active mass loading, due to increased tortuosity and long diffusion paths, despite its critical role in achieving high energy density. To identify the limiting factor in transport, a technique capable of tracking Li transport in real time within the cell is therefore essential. 
     <br><br>
