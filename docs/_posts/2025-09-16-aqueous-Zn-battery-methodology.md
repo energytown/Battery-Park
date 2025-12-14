@@ -12,7 +12,7 @@ permalink: /posts/2025-09-16-aqueous-Zn-battery-methodology/
     <br>
     <b>Authors</b>: Rana, et al.,
     <br>
-    <b>Journal</b>: Advanced Energy Materials <a href="https://doi.org/10.1002/aenm.202503155">Article Link</a>
+    <b>Journal</b>: Advanced Energy Materials <a href="https://doi.org/10.1002/aenm.202503155">Link</a>
     <br><br>
     Interpretation of reaction mechanisms in aqueous batteries can be complex and challenging due to parasitic reactions and accompanying pH changes. Similarly, aqueous Zn batteries suffer from the hydrogen evolution reaction (HER), which occurs alongside zinc electrodeposition. However, its kinetics have remained elusive because of the lack of techniques capable of providing a comprehensive picture of the reaction process.
     <br><br>
