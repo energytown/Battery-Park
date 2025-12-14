@@ -12,7 +12,7 @@ permalink: /posts/2025-08-24-operando-lead-acid/
     <br>
     <b>Authors</b>: Kim, et al.,
     <br>
-    <b>Journal</b>: Journal of Power Sources <a href="https://doi.org/10.1016/j.jpowsour.2025.238023">Link</a>
+    <b>Journal</b>: Journal of Power Sources <a href="https://doi.org/10.1016/j.jpowsour.2025.238023">Article Link</a>
     <br><br>
     Lead-acid batteries remain an attractive option for rechargeable cell technology due to their low cost and good durability, despite having a lower energy density compared to Li-ion batteries. In this study, the authors successfully demonstrated the chemo-mechanical behavior of a lead-acid cell during formation and cycling using operando characterization. They employed X-ray microtomography and energy-dispersive diffraction with a custom-designed cell that mimics real testing conditions.
     <br><br>
