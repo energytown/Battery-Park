@@ -8,7 +8,7 @@ permalink: /posts/2025-12-13-NMR-probing-electrolyte/
   <body>
     <h1>NMR Spectroscopy for Probing Electrolyte Chemistry in Batteries </h1>
     <br><br>
-    <b>Title</b>: Liquid-State NMR Spectroscopy for battery Electrolyte Design
+    <b>Title</b>: Liquid-State NMR Spectroscopy for Battery Electrolyte Design
     <br>
     <b>Authors</b>: Shi, et al.,
     <br>
