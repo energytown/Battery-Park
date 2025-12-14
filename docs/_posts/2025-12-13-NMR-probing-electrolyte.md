@@ -12,7 +12,7 @@ permalink: /posts/2025-12-13-NMR-probing-electrolyte/
     <br>
     <b>Authors</b>: Shi, et al.,
     <br>
-    <b>Journal</b>: ACS Energy Letters <a href="https://doi.org/10.1021/acsenergylett.5c02192">Article Link</a>
+    <b>Journal</b>: ACS Energy Letters <a href="https://doi.org/10.1021/acsenergylett.5c02192">Link</a>
     <br><br>
     Liquid-state nuclear magnetic resonance (ls-NMR) is a technique well suited for mechanistic studies of electrolytes, in which ion transport and interfacial reactions with electrodes are of paramount importance to battery performance. This technique enables the elucidation of electrolyte structures and dynamics at the molecular level by correlating spectral data with electrolyte chemistry.
     <br><br>
