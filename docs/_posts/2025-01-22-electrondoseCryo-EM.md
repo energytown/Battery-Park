@@ -12,7 +12,7 @@ permalink: /posts/2025-01-22-electrondoseCryo-EM/
     <br>
     <b>Authors</b>: Koh et al.,
     <br>
-    <b>Journal</b>: ACS Energy Letters <a href="https://pubs.acs.org/doi/10.1021/acsenergylett.4c03337">Link</a>
+    <b>Journal</b>: ACS Energy Letters <a href="https://pubs.acs.org/doi/10.1021/acsenergylett.4c03337">Article Link</a>
     <br><br>
     The solid electrolyte interphase (SEI) is a critical component in batteries, acting as a charge transport bridge between the electrode and electrolyte, significantly influencing battery performance. While cryogenic transmission electron microscopy (cryo-TEM) has been widely used to evaluate SEI, many studies simply assume and even claim its ability to protect against any electron beam irradiation damage.
     <br><br>
