@@ -12,7 +12,7 @@ permalink: /posts/2025-02-04-magnetic-resonance-ASSB-dendrite/
     <br>
     <b>Authors</b>: Liu, et al.,
     <br>
-    <b>Journal</b>: Nature Materials <a href="https://www.nature.com/articles/s41563-024-02094-6">Article Link</a>
+    <b>Journal</b>: Nature Materials <a href="https://www.nature.com/articles/s41563-024-02094-6">Link</a>
     <br><br>
     A comprehensive understanding of dendrite formation in all-solid-state batteries (ASSBs), both spatially and temporally, is far from attainable without a proper characterization method. While numerous studies have investigated dendrite formation at the electrode-electrolyte interface, less effort has been dedicated to deciphering electrolyte grain boundaries, which are theoretically favorable sites also for dendrite formation. Transmission electron microscopy techniques provide spatial resolution of these boundaries and electronic insights; however, they are limited to local, two-dimensional structural information that is susceptible to transformation under electron beam irradiation.
     <br><br>
