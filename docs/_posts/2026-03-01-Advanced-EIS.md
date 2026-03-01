@@ -1,25 +1,25 @@
 ---
 layout: post
-title:  Pristine SEI from Diverse Electrolyte Chemistries Characterized by a Cryogenic Technique
-permalink: /posts/2026-01-05-Cryo-XPS-SEI-characterization/
+title:  Advanced Impedance Spectroscopy for Rapid and Reliable Characterization of Solid-State Batteries 
+permalink: /posts/2026-03-01-Advanced-EIS/
 ---
 
 <html>
   <body>
-    <h1>Pristine SEI from Diverse Electrolyte Chemistries Characterized by a Cryogenic Technique</h1>
+    <h1>Advanced Impedance Spectroscopy for Rapid and Reliable Characterization of Solid-State Batteries</h1>
     <br><br>
-    <b>Title</b>: Cryogenic X-ray photoelectron spectroscopy for battery interfaces
+    <b>Title</b>: Joint-Domain Impedance Spectroscopy for Solid-State Batteries: Enabling Accelerated Characterization and Data-Driven Insights
     <br>
-    <b>Authors</b>: Shuchi, et al.,
+    <b>Authors</b>: Huang, et al.,
     <br>
-    <b>Journal</b>: Nature <a href="https://doi.org/10.1038/s41586-025-09618-3">Link</a>
+    <b>Journal</b>: ACS Energy Letters <a href="https://doi.org/10.1021/acsenergylett.5c03055">Link</a>
     <br><br>
-    X-ray photoelectron spectroscopy (XPS) has been widely accepted to characterize the solid electrolyte interphase (SEI) in Li-ion batteries due to its ability to identify molecular chemistry and perform nanoscale depth profiling. However, because measurements are conducted at room temperature under ultra-high-vacuum conditions, beam-induced SEI evolution and thickness reduction due to species volatilization are unavoidable, preventing true representation of the electrochemically formed features. 
+    Electrochemical Impedance Spectroscopy (EIS) has been an essential, non-invasive technique in both academia and industry for characterizing electrochemical processes in Li batteries, including solid-state batteries (SSBs). These processes are measured over a wide frequency range, typically from the mHz range (slow processes) up to the MHz range (fast processes). However, acquiring reliable low-frequency data, especially for slow processes in SSBs, requires long measurement times, limiting its practicality for rapid diagnostics.
     <br><br>
-    In this paper, the authors successfully developed a cryogenic cryo-XPS method and systematically evaluated the extent of various influences such as cryogenic duration, reactions, beam exposure, and ultra-high vacuum (UHV) on the evolution of the as-deposited solid electrolyte interphase (SEI) by acquiring data under cryogenic conditions, room temperature (RT), and cryogenic conditions followed by heating to RT. The authors found that the high abundance of stable LiF commonly reported in RT-XPS studies is actually promoted by SEI decomposition and volatilization, while the formation of Li<sub>2</sub>O is more convoluted, particularly because the observed trends vary among electrolytes with different compositions. Furthermore, the intrinsic heterogeneity of the SEI, which consists of both volatile and non-volatile species, is no longer preserved at RT as chemically stable products become dominant as the SEI evolves. The paper also demonstrated quantitatively the viability of cryo-XPS in contrast to RT-XPS by correlating coulombic efficiency with SEI composition across a range of electrolyte chemistries.
+    To address this limitation, the authors introduce a joint (frequency and time) domain measurement approach to accelerate data acquisition by an order of magnitude while maintaining high accuracy. This hybrid method combines frequency-domain data to assess high-frequency processes with time-domain data to probe the low-frequency regime. The combined data are transformed into the distribution of relaxation times (DRT), enabling to reconstruct the full-range impedance spectrum. To demonstrate the validity and reliability of the method, the authors used samples with different treatment histories and compared the results with those from conventional EIS and multisine EIS. The new method outperforms both in terms of speed and accuracy.
     <br><br>
-    Overall, this paper highlights the necessity for rigorous experimental methodologies in Li-ion battery research to accurately capture the true nature of critical battery components. High-resolution techniques commonly used for SEI studies and performed under ultra-high vacuum and room-temperature conditions may emphasize outcomes that are potentially misleading when correlating SEI chemistry with battery performance. Although insights from complementary characterization tools can help guide research in the right direction, continued development of advanced characterization techniques remains essential, not only to refine existing understanding but also to challenge conventional wisdom and enable faster, more effective improvements in energy storage systems.
-    <br><br>
+    The authors further applied the joint EIS–DRT approach for in operando visualization of processes in SSBs and demonstrated that it helps decipher the complex behavior of SSBs with reasonable confidence, as the evolution of DRT peaks with state of charge corresponds well with the underlying chemical processes occurring in the batteries. In addition, variable-rate charge/discharge tests were conducted to collect impedance and DRT data for training a machine learning regression model that enables two-dimensional mapping of key performance metrics. The overall high-throughput methodology presented in the paper is powerful in its ability to bridge microscopic processes within the cell to key performance metrics, thereby enhancing its diagnostic potential for state-of-health estimation and quality control of SSBs.    <br><br>
+    As acknowledged by the authors, despite improvements in speed and accuracy, the proposed method is not entirely free from intrinsic limitations of EIS, such as challenges in process deconvolution and potential peak misrepresentation. While enhanced data visualization with additional variables may improve interpretability to some extent, complementary operando techniques are still needed for better interpretation. Nonetheless, high-throughput hybrid EIS, supported by machine learning, represents a promising direction for the battery industry for rapid and practical battery diagnostics. 
   </body>
 </html>
 
