@@ -85,11 +85,20 @@
                 </div>
             </ul>
             <div class="search-container">
-              <form action="https://www.google.com/search" method="get" target="_blank">
-                <input type="hidden" name="as_sitesearch" value="energytown.github.io/Battery-Park">
+              <form id="search-form" onsubmit="performSearch(event)">
                 <input type="text" placeholder="Search.." name="q" id="search-input" style="color: #000000; background-color: #ffffff;">
                 <button type="submit" style="color: #000000; background-color: #ffffff;">Submit</button>
               </form>
+              <script>
+                function performSearch() {
+                  const query = document.getElementById("search-input").value;
+                  if (query) {
+                    window.open(`https://www.google.com/search?q=site:https://energytown.github.io/Battery-Park+${encodeURIComponent(query)}`, '_blank');
+                    } else {
+                    alert("Please enter a search term.");
+                    }
+                  }
+              </script>
             </div>
             <div class="hamburger">
                 <span class="bar"></span>
