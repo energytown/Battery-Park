@@ -97,7 +97,8 @@
                   const query = document.getElementById("search-input").value;
                   if (query) {
                     const advancedQuery = `site:energytown.github.io+inurl:Battery-Park+${encodeURIComponent(query)}`;
-                    const targetUrl = `https://google.com{advancedQuery}`;
+                    const targetUrl = `https://google.com?q=${advancedQuery}`;
+
                     
                     window.open(targetUrl, '_blank');
                     } else {
