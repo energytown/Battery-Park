@@ -96,7 +96,7 @@
                   }
                   const query = document.getElementById("search-input").value;
                   if (query) {
-                      const advancedQuery = "site:energytown.github.io/Battery-Park " + query;
+                      const advancedQuery = "site:energytown.github.io/Battery-Park/ ${query}";
                       const targetUrl = "https://www.google.com/search?q=" + encodeURIComponent(advancedQuery);
                     window.open(targetUrl, '_blank');
                     } else {
