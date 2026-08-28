@@ -33,6 +33,7 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-github-metadata
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
